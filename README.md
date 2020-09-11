@@ -6,9 +6,9 @@ I am attending the Deep Dive Coding Java + Android Bootcamp with the goal of cha
 
 ## Current Projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/AugmenTab/deep-dive-hello-world-ij)
 
-* Hello World: Android app
+* [Hello World: Android app](https://github.com/AugmenTab/android-hello-world)
 
 ## Links
 
