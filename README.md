@@ -13,7 +13,3 @@ I am attending the Deep Dive Coding Java + Android Bootcamp with the goal of cha
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/thebaum)
-
-> A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
-> 
-> Every line (blank or not) of a blockquote begins with `>`, followed by a space.
