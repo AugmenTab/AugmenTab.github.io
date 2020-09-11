@@ -11,3 +11,5 @@ I am attending the Deep Dive Coding Java + Android Bootcamp with the goal of cha
 * Hello World: Android app
 
 ## Links
+
+* [LinkedIn](https://www.linkedin.com/in/thebaum)
