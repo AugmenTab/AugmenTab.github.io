@@ -6,9 +6,13 @@ I am attending the Deep Dive Coding Java + Android Bootcamp with the goal of cha
 
 ## Current Projects
 
-* [Hello World: Java console application](https://github.com/AugmenTab/deep-dive-hello-world-ij)
+* [Viral: Android game](https://github.com/AugmenTab/viral)
 
-* [Hello World: Android app](https://github.com/AugmenTab/android-hello-world)
+* FishEye: Android app
+
+* [CodeBreaker: Android game](https://github.com/AugmenTab/codebreaker-android)
+
+* [Animals: Android app](https://github.com/AugmenTab/animals)
 
 ## Links
 
