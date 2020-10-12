@@ -8,7 +8,7 @@ I am attending the Deep Dive Coding Java + Android Bootcamp with the goal of cha
 
 * [Viral: Android game](https://github.com/AugmenTab/viral)
 
-* PicMe Gallery: Android app
+* AlbuQuirky: Android app
 
 * [CodeBreaker: Android game](https://github.com/AugmenTab/codebreaker-android)
 
