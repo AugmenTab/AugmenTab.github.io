@@ -46,7 +46,7 @@ While no means an exhaustive list, this is a small sampling of some of my comple
 
 ## Future Plans
 
-Even after classes end and gainful employment is found, the learning never ends. In addition to developing skills gained through the Deep Dive Coding bootcamp, I intend to make use of personal free time to add a number of languages, frameworks, and other skills to my tool box. Some of these include:
+Even after classes end and gainful employment is found, the learning never ends (thankfully). In addition to further developing the skills gained through the Deep Dive Coding bootcamp, I intend to make use of personal free time to add a number of languages, frameworks, and other skills to my tool box. Some of these include:
 
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) to capitalize on my current knowledge of Java
 * [Kotlin](https://kotlinlang.org/docs/reference/), [Dart](https://dart.dev/), and [Flutter](https://flutter.dev/) to continue developing my app-development skills (and maybe in anticipation of the possible release of [Google Fuschia](https://fuchsia.dev/fuchsia-src/development))
