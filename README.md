@@ -4,6 +4,8 @@
 
 ## Current Projects
 
+Here, you can find brief explanations and links to some of the major projects I am currently working on.
+
 * [Viral](https://github.com/AugmenTab/viral) is an Android app currently being built as my personal Android capstone project for the Java + Android bootcamp. It is a turn-based strategy game that takes place inside of a fictional social media app. It is a data-driven game that makes use of the [Room](https://developer.android.com/topic/libraries/architecture/room) persistence library and [Leaflet](https://leafletjs.com/reference-1.7.1.html) to simulate a local area map. For more information, you can view the dedicated project site [here](https://augmentab.github.io/viral/).
 * [AlbuQuirky]() is an Android app currently being built as one of the group capstone projects for the Java + Android bootcamp. It is an app designed to help local area artists sell their art and handle commissions during the COVID-19 crisis (and beyond). In addition to the Room persistence library, it also makes use of a server-side application supported by [Hibernate](https://hibernate.org/orm/documentation/5.4/) and Google's [OAuth 2.0](https://developers.google.com/identity/protocols/oauth2). For more information, you can view the dedicated project site [here](https://albuquirky.github.io/).
 * [CodeBreaker](https://github.com/AugmenTab/codebreaker-android) is an Android game currently being built as a class project in the Java + Android bootcamp. It also uses Room, Hibernate, and Google OAuth 2.0 to permit players to play games over the internet as well as in a "solitaire" mode by themselves.
@@ -37,7 +39,7 @@ While no means an exhaustive list, this is a small sampling of some of my comple
 ### Websites
 
 * Just Good Ol' JavaScript
-    * [Anoxis Gate](https://anoxisgate.com/), a website that will eventually serve as the distribution platform for third-party tabletop roleplaying content published by a group I participate in. Currently, it is simply a placeholder site that allows interested parties to sign up for the newsletter, which is managed through [MailChimp](https://mailchimp.com/developer/). In the future, it will likely use either Elm, Hugo, or Gatsby.
+    * [Anoxis Gate](https://anoxisgate.com/), a website that will eventually serve as the distribution platform for third-party tabletop roleplaying content published by a group I participate in. I used it as an opportunity to play around with animations in CSS, both by using established animations (the twinkling starry night background) and experimenting with my own (the scrolling gradient text and buttons). Currently, it is simply a placeholder site that allows interested parties to sign up for the newsletter, which is managed through [MailChimp](https://mailchimp.com/developer/). In the future, it will likely use either Elm, Hugo, or Gatsby.
 * React
     * [Catch of the Day](https://github.com/AugmenTab/react-studies/tree/master/beginner/catch-of-the-day) and [Sick Fits](https://github.com/AugmenTab/react-studies/tree/master/advanced/sick-fits), a pair of React websites made through the Beginner and Advanced tutorials by the incredible [Wes Bos](https://wesbos.com/about). 
 * Hugo
@@ -46,12 +48,12 @@ While no means an exhaustive list, this is a small sampling of some of my comple
 
 ## Future Plans
 
-Even after classes end and gainful employment is found, the learning never ends (thankfully). In addition to further developing the skills gained through the Deep Dive Coding bootcamp, I intend to make use of personal free time to add a number of languages, frameworks, and other skills to my tool box. Some of these include:
+Even after classes end and gainful employment is found, the learning never ends (thankfully!). In addition to further developing the skills gained through the Deep Dive bootcamp, I intend to make use of personal free time to add a number of languages, frameworks, and other skills to my tool box. Some of these include:
 
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) to capitalize on my current knowledge of Java
-* [Kotlin](https://kotlinlang.org/docs/reference/), [Dart](https://dart.dev/), and [Flutter](https://flutter.dev/) to continue developing my app-development skills (and maybe in anticipation of the possible release of [Google Fuschia](https://fuchsia.dev/fuchsia-src/development))
+* [Kotlin](https://kotlinlang.org/docs/reference/), [Dart](https://dart.dev/), and [Flutter](https://flutter.dev/) to continue improving my app-development skills (and maybe in anticipation of the possible release of [Google Fuschia](https://fuchsia.dev/fuchsia-src/development))
 * [Elm](https://elm-lang.org/) and [Gatsby](https://www.gatsbyjs.com/docs/) for more front-end development flexibility
-* [Rust](https://www.rust-lang.org/), [Go](https://golang.org/), and [Erlang](https://www.erlang.org/) for their excellent concurrency models and the wide range of applications in which they excel
+* [Rust](https://www.rust-lang.org/), [Go](https://golang.org/), and [Erlang](https://www.erlang.org/) for their exemplary concurrency models and the wide range of applications in which they excel
 
 ## Links
 
