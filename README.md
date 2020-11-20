@@ -11,10 +11,12 @@ Here, you can find brief explanations and links to some of the major projects I 
 * [CodeBreaker](https://github.com/AugmenTab/codebreaker-android) is an Android game currently being built as a class project in the Java + Android bootcamp. It also uses Room, Hibernate, and Google OAuth 2.0 to permit players to play games over the internet as well as in a "solitaire" mode by themselves.
 
 ## Recently Updated Repositories
-
+{% assign exclude = 'AugmenTab.github.io' | split: ', ' %}
 {% assign public_repositories = site.github.public_repositories | where: 'fork', false | sort: 'updated_at' | reverse %}
 {% for repo in public_repositories limit: 5 %}
+  {% unless exclude contains repo.name -%}
 * [{{ repo.name }}]({{ repo.html_url }})
+  {%- endunless %}
 {% endfor %}
 
 ## Past Projects
@@ -26,7 +28,7 @@ While no means an exhaustive list, this is a small sampling of some of my comple
 * Java
     * [Animals](https://github.com/AugmenTab/animals) was an Android app that we as a class developed as part of the Java + Android bootcamp. It provided a number of exercises in UI design, and makes use of a number of APIs and Google's Gson library.
 * JavaScript
-    * [Aponia](https://github.com/AugmenTab/work-tools) was a small suite of custom-built tools I developed for a former employer. These tools were part of a major change to my department's operating procedures I suggested and assisted in implementing, which had a significant impact on my team's ability to organize and access information. After these changes took hold, we were able to operate at less than half our expected staffing capacity for an extended period of time without getting behind, and continue to operate without significant delays during the switch to remote work due to COVID-19.
+    * [Aponia](https://github.com/AugmenTab/work-tools) was a small suite of custom-built tools I developed for a former employer. These tools were part of a major change to my department's operating procedures I suggested and assisted in implementing, which had a tremendous impact on my team's ability to organize and access information. After these changes took hold, we were able to operate at less than half our expected staffing capacity for an extended period of time without getting behind, and continue to operate without significant delays during the switch to remote work due to COVID-19.
 * Python
     * [Text Embiggeninator](https://github.com/AugmenTab/text-embiggeninator) is a Python tool that converts text into BIG TEXT emojis for use in the Discord instant messaging app. It makes use of [Eel](https://github.com/samuelhwilliams/Eel) to make a simple GUI using HTML, CSS, and JavaScript.
     * [Halo Medal Scraper](https://github.com/AugmenTab/halo-medal-scraper), a simple web scraper that downloads images and logs details for the multiplayer medals from the Halo first-person shooter franchise.
