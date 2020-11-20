@@ -7,13 +7,13 @@
 Here, you can find brief explanations and links to some of the major projects I am currently working on.
 
 * [Viral](https://github.com/AugmenTab/viral) is an Android app currently being built as my personal Android capstone project for the Java + Android bootcamp. It is a turn-based strategy game that takes place inside of a fictional social media app. It is a data-driven game that makes use of the [Room](https://developer.android.com/topic/libraries/architecture/room) persistence library and [Leaflet](https://leafletjs.com/reference-1.7.1.html) to simulate a local area map. For more information, you can view the dedicated project site [here](https://augmentab.github.io/viral/).
-* [AlbuQuirky]() is an Android app currently being built as one of the group capstone projects for the Java + Android bootcamp. It is an app designed to help local area artists sell their art and handle commissions during the COVID-19 crisis (and beyond). In addition to the Room persistence library, it also makes use of a server-side application supported by [Hibernate](https://hibernate.org/orm/documentation/5.4/) and Google's [OAuth 2.0](https://developers.google.com/identity/protocols/oauth2). For more information, you can view the dedicated project site [here](https://albuquirky.github.io/).
-* [CodeBreaker](https://github.com/AugmenTab/codebreaker-android) is an Android game currently being built as a class project in the Java + Android bootcamp. It also uses Room, Hibernate, and Google OAuth 2.0 to permit players to play games over the internet as well as in a "solitaire" mode by themselves.
+* [AlbuQuirky](https://github.com/albuquirky/albuquirky) is an Android app currently being built as one of the group capstone projects for the Java + Android bootcamp. It is an app designed to help local area artists sell their art and handle commissions during the COVID-19 crisis (and beyond). In addition to the Room persistence library, it also makes use of a [server-side application](https://github.com/albuquirky/albuquirky-service) supported by [Hibernate](https://hibernate.org/orm/documentation/5.4/) and Google's [OAuth 2.0](https://developers.google.com/identity/protocols/oauth2). For more information, you can view the dedicated project site [here](https://albuquirky.github.io/).
+* [CodeBreaker](https://github.com/AugmenTab/codebreaker-android) is an Android game currently being built as a class project in the Java + Android bootcamp. It also uses Room, Hibernate, and Google OAuth 2.0 in a [server side application](https://github.com/AugmenTab/codebreaker-service) to permit players to play games over the internet as well as in a "solitaire" mode by themselves.
 
 ## Recently Updated Repositories
-{% assign exclude = 'AugmenTab.github.io, viral' | split: ', ' %}
+{% assign exclude = 'AugmenTab.github.io, viral, codebreaker-service, room-schema-parser' | split: ', ' %}
 {% assign public_repositories = site.github.public_repositories | where: 'fork', false | sort: 'updated_at' | reverse %}
-{% for repo in public_repositories limit: 7 %}
+{% for repo in public_repositories limit: 9 %}
   {% unless exclude contains repo.name -%}
 * [{{ repo.name }}]({{ repo.html_url }})
   {%- endunless %}
