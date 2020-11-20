@@ -1,6 +1,6 @@
 ## Introduction
 
-[comment]: <> (TODO)
+After nearly three years of poking and proding at code, I finally decided to try and make it my new career by taking the plundge into the CNM Ingenuity Deep Dive Coding Bootcamp's Java + Android program. While there, I have nearly doubled the amount of repositories and projects I have worked on. You can see some of those here below.
 
 ## Current Projects
 
