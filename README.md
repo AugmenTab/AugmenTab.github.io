@@ -11,7 +11,7 @@ Here, you can find brief explanations and links to some of the major projects I 
 * [CodeBreaker](https://github.com/AugmenTab/codebreaker-android) is an Android game currently being built as a class project in the Java + Android bootcamp. It also uses Room, Hibernate, and Google OAuth 2.0 to permit players to play games over the internet as well as in a "solitaire" mode by themselves.
 
 ## Recently Updated Repositories
-{% assign exclude = 'AugmenTab.github.io' | split: ', ' %}
+{% assign exclude = 'AugmenTab.github.io, viral' | split: ', ' %}
 {% assign public_repositories = site.github.public_repositories | where: 'fork', false | sort: 'updated_at' | reverse %}
 {% for repo in public_repositories limit: 5 %}
   {% unless exclude contains repo.name -%}
