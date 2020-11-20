@@ -13,7 +13,7 @@ Here, you can find brief explanations and links to some of the major projects I 
 ## Recently Updated Repositories
 {% assign exclude = 'AugmenTab.github.io, viral' | split: ', ' %}
 {% assign public_repositories = site.github.public_repositories | where: 'fork', false | sort: 'updated_at' | reverse %}
-{% for repo in public_repositories limit: 5 %}
+{% for repo in public_repositories limit: 7 %}
   {% unless exclude contains repo.name -%}
 * [{{ repo.name }}]({{ repo.html_url }})
   {%- endunless %}
