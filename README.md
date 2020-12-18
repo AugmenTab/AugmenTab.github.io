@@ -1,14 +1,12 @@
 ## Introduction
 
-After nearly three years of poking and proding at code, I finally decided to try and make it my new career by taking the plundge into the CNM Ingenuity Deep Dive Coding Bootcamp's Java + Android program. While there, I have nearly doubled the amount of repositories and projects I have worked on. You can see some of those here below.
+After nearly three years of poking and proding at code, I finally decided to try and make it my new career by taking the plundge into the CNM Ingenuity Deep Dive Coding Bootcamp's Java + Android program. Now that I have completed that course, I'm looking to add to my experience, and in service of that, a sampling of what I have already done is on display below.
 
 ## Current Projects
 
 Here, you can find brief explanations and links to some of the major projects I am currently working on.
 
-* [Viral](https://github.com/AugmenTab/viral) is an Android app currently being built as my personal Android capstone project for the Java + Android bootcamp. It is a turn-based strategy game that takes place inside of a fictional social media app. It is a data-driven game that makes use of the [Room](https://developer.android.com/topic/libraries/architecture/room) persistence library and [Leaflet](https://leafletjs.com/reference-1.7.1.html) to simulate a local area map. For more information, you can view the dedicated project site [here](https://augmentab.github.io/viral/).
-* [AlbuQuirky](https://github.com/albuquirky/albuquirky) is an Android app currently being built as one of the group capstone projects for the Java + Android bootcamp. It is an app designed to help local area artists sell their art and handle commissions during the COVID-19 crisis (and beyond). In addition to the Room persistence library, it also makes use of a [server-side application](https://github.com/albuquirky/albuquirky-service) supported by [Hibernate](https://hibernate.org/orm/documentation/5.4/) and Google's [OAuth 2.0](https://developers.google.com/identity/protocols/oauth2). For more information, you can view the dedicated project site [here](https://albuquirky.github.io/).
-* [CodeBreaker](https://github.com/AugmenTab/codebreaker-android-v2) is an Android game currently being built as a class project in the Java + Android bootcamp. It also uses Room, Hibernate, and Google OAuth 2.0 in a [server side application](https://github.com/AugmenTab/codebreaker-service-v2) to permit players to play games over the internet as well as in a "solitaire" mode by themselves.
+
 
 ## Recently Updated Repositories
 {% assign exclude = 'AugmenTab.github.io, viral, codebreaker-service, room-schema-parser, codebreaker, codebreaker-android-v2, codebreaker-service-v2' | split: ', ' %}
@@ -25,8 +23,12 @@ While no means an exhaustive list, this is a small sampling of some of my comple
 
 ### Applications
 
-* Java
+* Java/Android
     * [Animals](https://github.com/AugmenTab/animals) was an Android app that we as a class developed as part of the Java + Android bootcamp. It provided a number of exercises in UI design, and makes use of a number of APIs and Google's Gson library.
+    * [AlbuQuirky](https://github.com/albuquirky/albuquirky) was an Android app built as one of the group capstone projects for the Java + Android bootcamp. It is an app designed to help local area artists sell their art and handle commissions during the COVID-19 crisis (and beyond). In addition to the Room persistence library, it also makes use of a [server-side application](https://github.com/albuquirky/albuquirky-service) supported by [Hibernate](https://hibernate.org/orm/documentation/5.4/) and Google's [OAuth 2.0](https://developers.google.com/identity/protocols/oauth2). As of the round table presentation at the graduation ceremony for the Java + Android bootcamp, it was also hosted on [Digital Ocean](https://www.digitalocean.com/), with the app communicating with the server (as opposed to communicating with a server running locally). For more information, you can view the dedicated project site [here](https://albuquirky.github.io/).
+    * [CodeBreaker](https://github.com/AugmenTab/codebreaker-android-v2) was an Android game built as a class project in the Java + Android bootcamp. It also uses Room, Hibernate, and Google OAuth 2.0 in a [server side application](https://github.com/AugmenTab/codebreaker-service-v2) to permit players to play games over the internet as well as in a "solitaire" mode by themselves.
+    * [Color Picker](https://github.com/ddc-java-11/color-picker-AugmenTab) and [Temp Converter](https://github.com/ddc-java-11/temp-converter-AugmenTab) were practical exam assignments during the bootcamp. Both required making an Android app from scratch using a provided design document that dictated function and style. Color Picker uses sliders to allow the user to set a red, green, blue, and alpha value, and get a preview of the result as well as the hex code. Temp Converter allows the user to enter either a Celsius, Fahrenheit, or Kelvin temperature, and convert it to the other two.
+    * [Viral](https://github.com/AugmenTab/viral) was an Android app built as my personal Android capstone project for the Java + Android bootcamp. It is a turn-based strategy game that takes place inside of a fictional social media app. It is a data-driven game that makes use of the [Room](https://developer.android.com/topic/libraries/architecture/room) persistence library and [Leaflet](https://leafletjs.com/reference-1.7.1.html) to simulate a local area map. For more information, you can view the dedicated project site [here](https://augmentab.github.io/viral/).
 * JavaScript
     * [Aponia](https://github.com/AugmenTab/work-tools) was a small suite of custom-built tools I developed for a former employer. These tools were part of a major change to my department's operating procedures I suggested and assisted in implementing, which had a tremendous impact on my team's ability to organize and access information. After these changes took hold, we were able to operate at less than half our expected staffing capacity for an extended period of time without getting behind, and continue to operate without significant delays during the switch to remote work due to COVID-19.
 * Python
@@ -40,13 +42,13 @@ While no means an exhaustive list, this is a small sampling of some of my comple
 
 ### Websites
 
-* Just Good Ol' JavaScript
-    * [Anoxis Gate](https://anoxisgate.com/), a website that will eventually serve as the distribution platform for third-party tabletop roleplaying content published by a group I participate in. I used it as an opportunity to play around with animations in CSS, both by using established animations (the twinkling starry night background) and experimenting with my own (the scrolling gradient text and buttons). Currently, it is simply a placeholder site that allows interested parties to sign up for the newsletter, which is managed through [MailChimp](https://mailchimp.com/developer/). In the future, it will likely use either Elm, Hugo, or Gatsby.
 * React
     * [Catch of the Day](https://github.com/AugmenTab/react-studies/tree/master/beginner/catch-of-the-day) and [Sick Fits](https://github.com/AugmenTab/react-studies/tree/master/advanced/sick-fits), a pair of React websites made through the Beginner and Advanced tutorials by the incredible [Wes Bos](https://wesbos.com/about). 
 * Hugo
     * [BaumBuilds](https://www.baumbuilds.com/) is an e-commerce website made for my dad's small business. It served as my first foray into Hugo, and was made by adapting a purchased Bootstrap theme to Hugo partials and reaching out to [Snipcart](https://docs.snipcart.com/v3/) to handle the credit card processing and digital goods distribution.
     * [Kangen Krew](https://kangenkrew.com/) was done as a freelance project for a local sales team selling Enagic alkaline water machines. It was also built using Hugo, with [DatoCMS](https://www.datocms.com/docs) serving as the content management system, allowing the client to modify the website copy and graphic assets themselves without having to know anything about coding.
+* JavaScript/Other
+    * [Anoxis Gate](https://anoxisgate.com/), a website that will eventually serve as the distribution platform for third-party tabletop roleplaying content published by a group I participate in. I used it as an opportunity to play around with animations in CSS, both by using established animations (the twinkling starry night background) and experimenting with my own (the scrolling gradient text and buttons). Currently, it is simply a placeholder site that allows interested parties to sign up for the newsletter, which is managed through [MailChimp](https://mailchimp.com/developer/). In the future, it will likely use either Elm, Hugo, or Gatsby.
 
 ## Future Plans
 
