@@ -2,11 +2,10 @@
 
 After nearly three years of poking and proding at code, I finally decided to try and make it my new career by taking the plundge into the CNM Ingenuity Deep Dive Coding Bootcamp's Java + Android program. Now that I have completed that course, I'm looking to add to my experience, and in service of that, a sampling of what I have already done is on display below.
 
-## Current Projects
+## Links
 
-Here, you can find brief explanations and links to some of the major projects I am currently working on.
-
-
+* [LinkedIn](https://www.linkedin.com/in/thebaum)
+* [Résumé](pdf/Tyler_Baum_Resume.pdf)
 
 ## Recently Updated Repositories
 {% assign exclude = 'AugmenTab.github.io, viral, codebreaker-service, room-schema-parser, codebreaker, codebreaker-android-v2, codebreaker-service-v2' | split: ', ' %}
@@ -58,8 +57,3 @@ Even after classes end and gainful employment is found, the learning never ends 
 * [Kotlin](https://kotlinlang.org/docs/reference/), [Dart](https://dart.dev/), and [Flutter](https://flutter.dev/) to continue improving my app-development skills (and maybe in anticipation of the possible release of [Google Fuschia](https://fuchsia.dev/fuchsia-src/development))
 * [Elm](https://elm-lang.org/) and [Gatsby](https://www.gatsbyjs.com/docs/) for more front-end development flexibility
 * [Rust](https://www.rust-lang.org/), [Go](https://golang.org/), and [Erlang](https://www.erlang.org/) for their exemplary concurrency models and the wide range of applications in which they excel
-
-## Links
-
-* [LinkedIn](https://www.linkedin.com/in/thebaum)
-* [Résumé](pdf/Tyler_Baum_Resume.pdf)
