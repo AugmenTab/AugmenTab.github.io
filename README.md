@@ -5,7 +5,7 @@ After nearly three years of poking and proding at code, I finally decided to try
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/thebaum)
-* [Résumé](pdf/Tyler_Baum_Resume.pdf)
+* [Résumé](pdf/resume.pdf)
 
 ## Recently Updated Repositories
 {% assign exclude = 'AugmenTab.github.io, viral, codebreaker-service, room-schema-parser, codebreaker, codebreaker-android-v2, codebreaker-service-v2' | split: ', ' %}
