@@ -42,7 +42,7 @@ While no means an exhaustive list, this is a small sampling of some of my comple
 ### Websites
 
 * React
-    * [Catch of the Day](https://github.com/AugmenTab/react-studies/tree/master/beginner/catch-of-the-day) and [Sick Fits](https://github.com/AugmenTab/react-studies/tree/master/advanced/sick-fits), a pair of React websites made through the Beginner and Advanced tutorials by the incredible [Wes Bos](https://wesbos.com/about). 
+    * [Catch of the Day](https://github.com/AugmenTab/react-studies/tree/master/wes-bos/beginner/catch-of-the-day) and [Sick Fits](https://github.com/AugmenTab/react-studies/tree/master/wes-bos/advanced/sick-fits), a pair of React websites made through the Beginner and Advanced tutorials by the incredible [Wes Bos](https://wesbos.com/about). 
 * Hugo
     * [BaumBuilds](https://www.baumbuilds.com/) is an e-commerce website made for my dad's small business. It served as my first foray into Hugo, and was made by adapting a purchased Bootstrap theme to Hugo partials and reaching out to [Snipcart](https://docs.snipcart.com/v3/) to handle the credit card processing and digital goods distribution.
     * [Kangen Krew](https://kangenkrew.com/) was done as a freelance project for a local sales team selling Enagic alkaline water machines. It was also built using Hugo, with [DatoCMS](https://www.datocms.com/docs) serving as the content management system, allowing the client to modify the website copy and graphic assets themselves without having to know anything about coding.
