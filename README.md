@@ -40,8 +40,9 @@ While no means an exhaustive list, this is a small sampling of some of my comple
 
 ### Websites
 
-* React
-    * [Catch of the Day](https://github.com/AugmenTab/react-studies/tree/master/wes-bos/beginner/catch-of-the-day) and [Sick Fits](https://github.com/AugmenTab/react-studies/tree/master/wes-bos/advanced/sick-fits), a pair of React websites made through the Beginner and Advanced tutorials by the incredible [Wes Bos](https://wesbos.com/about). 
+* [React](https://github.com/AugmenTab/react-studies)
+    * [Catch of the Day](https://github.com/AugmenTab/react-studies/tree/master/wes-bos/beginner/catch-of-the-day) and [Sick Fits](https://github.com/AugmenTab/react-studies/tree/master/wes-bos/advanced/sick-fits), a pair of React websites made through the Beginner and Advanced tutorials by the incredible [Wes Bos](https://wesbos.com/about).
+* [Elm](https://github.com/AugmenTab/elm-studies)
 * Hugo
     * [BaumBuilds](https://www.baumbuilds.com/) is an e-commerce website made for my dad's small business. It served as my first foray into Hugo, and was made by adapting a purchased Bootstrap theme to Hugo partials and reaching out to [Snipcart](https://docs.snipcart.com/v3/) to handle the credit card processing and digital goods distribution.
     * [Kangen Krew](https://kangenkrew.com/) was done as a freelance project for a local sales team selling Enagic alkaline water machines. It was also built using Hugo, with [DatoCMS](https://www.datocms.com/docs) serving as the content management system, allowing the client to modify the website copy and graphic assets themselves without having to know anything about coding.
@@ -53,6 +54,7 @@ While no means an exhaustive list, this is a small sampling of some of my comple
 Even after classes end and gainful employment is found, the learning never ends (thankfully!). In addition to further developing the skills gained through the Deep Dive bootcamp, I intend to make use of personal free time to add a number of languages, frameworks, and other skills to my tool box. Some of these include:
 
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) to capitalize on my current knowledge of Java
+* [Haskell](https://www.haskell.org/) to capitalize on my current knowledge of Elm, and to be able to provide some of the same guarantees offered by Elm in other applications
 * [Kotlin](https://kotlinlang.org/docs/reference/), [Dart](https://dart.dev/), and [Flutter](https://flutter.dev/) to continue improving my app-development skills (and maybe in anticipation of the possible release of [Google Fuschia](https://fuchsia.dev/fuchsia-src/development))
-* [Elm](https://elm-lang.org/) and [Gatsby](https://www.gatsbyjs.com/docs/) for more front-end development flexibility
+* [Gatsby](https://www.gatsbyjs.com/docs/) for more front-end development flexibility
 * [Rust](https://www.rust-lang.org/), [Go](https://golang.org/), and [Erlang](https://www.erlang.org/) for their exemplary concurrency models and the wide range of applications in which they excel
