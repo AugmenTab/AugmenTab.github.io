@@ -5,7 +5,7 @@ After nearly three years of poking and proding at code, I finally decided to try
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/thebaum)
-* [Résumé](/resume) - This version can be printed from the browser in a print-friendly format. You can [download a PDF file version of the page as displayed](pdf/resume.pdf) (and with functional links preserved).
+* [Résumé](/resume) - This version can be printed from the browser in a print-friendly format. You can [download a PDF file version of the page as displayed](pdf/resume.pdf) (and with functional links preserved). If you would prefer to see a more traditionally formatted resume, you can [view that here](pdf/resume-trad.pdf).
 
 ## Recently Updated Repositories
 {% assign exclude = 'AugmenTab.github.io, viral, codebreaker-service, room-schema-parser, codebreaker, codebreaker-android-v2, codebreaker-service-v2' | split: ', ' %}
