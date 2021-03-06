@@ -57,6 +57,5 @@ Even after classes end and gainful employment is found, the learning never ends 
 * [Haskell](https://www.haskell.org/) to capitalize on my current knowledge of Elm, and to be able to provide some of the same guarantees offered by Elm in other applications
 * [Clojure](https://clojure.org/), since knowing Java will give me an advantage due to Clojure's [Java Interop](https://clojure.org/reference/java_interop) 
 * [Dart](https://dart.dev/) and [Flutter](https://flutter.dev/) to continue improving my app-development skills (and maybe in anticipation of the possible release of [Google Fuschia](https://fuchsia.dev/fuchsia-src/development))
-* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) to capitalize on my current knowledge of Java
 * [Gatsby](https://www.gatsbyjs.com/docs/) for more front-end development flexibility
-* [Rust](https://www.rust-lang.org/), [Go](https://golang.org/), and [Erlang](https://www.erlang.org/) for their exemplary concurrency models and the wide range of applications in which they excel
+* [Rust](https://www.rust-lang.org/), [Go](https://golang.org/), and [Erlang](https://www.erlang.org/) (possibly by way of [Elixir](https://elixir-lang.org/)) for their exemplary concurrency models and the wide range of applications in which they excel
