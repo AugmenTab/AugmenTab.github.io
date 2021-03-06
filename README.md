@@ -4,7 +4,9 @@ After nearly three years of poking and proding at code, I finally decided to try
 
 ## Links
 
+* [GitHub](https://github.com/AugmenTab)
 * [LinkedIn](https://www.linkedin.com/in/thebaum)
+* [CodeSignal](https://app.codesignal.com/profile/augmentab)
 * [Résumé](/resume) - This version can be printed from the browser in a print-friendly format. You can [download a PDF file version of the page as displayed](pdf/resume.pdf) (and with functional links preserved). If you would prefer to see a more traditionally formatted resume, you can [view that here](pdf/resume-trad.pdf).
 
 ## Recently Updated Repositories
