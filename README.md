@@ -1,6 +1,6 @@
 ## Introduction
 
-My namy is Tyler Baum, and I am a software developer from Albuquerque, NM. I recently completed the CNM Ingenuity Deep Dive Java + Android bootcamp, my first formal educational experience in the industry &ndash; I was an autodidact up to that point. While I'm somewhat new to the industry, I'm definitely not new to creating things that people can use and enjoy. I'm aiming to specialize in blockchain technology, but am not unwilling to branch into other areas of the industry if the right opportunity presents itself. In service of finding new opportunities, on offer below is a sampling of what I have already done.
+My name is Tyler Baum, and I am a software developer from Albuquerque, NM. I recently completed the CNM Ingenuity Deep Dive Java + Android bootcamp, my first formal educational experience in the industry &ndash; I was an autodidact up to that point. While I'm somewhat new to the industry, I'm definitely not new to creating things that people can use and enjoy. I'm aiming to specialize in blockchain technology, but am not unwilling to branch out into other areas of the industry if the right opportunity presents itself. In service of finding new opportunities, on offer below is a sampling of what I have already done.
 
 ## Links
 
