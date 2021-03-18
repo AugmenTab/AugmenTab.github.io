@@ -7,7 +7,7 @@ My name is Tyler Baum, and I am a software developer from Albuquerque, NM. I rec
 * [GitHub](https://github.com/AugmenTab)
 * [LinkedIn](https://www.linkedin.com/in/thebaum)
 * [CodeSignal](https://app.codesignal.com/profile/augmentab)
-* [Résumé](/resume) - This version can be printed from the browser in a print-friendly format. You can [download a PDF file version of the page as displayed](pdf/resume.pdf) (and with functional links preserved). If you would prefer to see a more traditionally formatted resume, you can [view that here](pdf/resume-trad.pdf).
+* [Résumé](/resume) - This version can be printed from the browser in a print-friendly format. You can [download a PDF file version of the page as displayed](pdf/resume.pdf) (and with functional links preserved). If you would prefer to see a more traditionally formatted resume, you can [view that here](traditional/main.pdf).
 
 ## Recently Updated Repositories
 {% assign exclude = 'AugmenTab.github.io' | split: ', ' %}
