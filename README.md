@@ -4,7 +4,7 @@ My name is Tyler Baum, and I am a software developer from Albuquerque, NM. I rec
 
 ## Links
 
-* [Résumé](/resume/traditional/main.pdf)
+* [Résumé](/resume/main.pdf)
 * [GitHub](https://github.com/AugmenTab)
 * [LinkedIn](https://www.linkedin.com/in/thebaum)
 * [CodeSignal](https://app.codesignal.com/profile/augmentab)
@@ -32,6 +32,7 @@ While no means an exhaustive list, this is a small sampling of some of my comple
 * JavaScript
     * [Aponia](https://github.com/AugmenTab/work-tools) was a small suite of custom-built tools I developed for a former employer. These tools were part of a major change to my department's operating procedures I suggested and assisted in implementing, which had a tremendous impact on my team's ability to organize and access information. After these changes took hold, we were able to operate at less than half our expected staffing capacity for an extended period of time without getting behind, and continue to operate without significant delays during the switch to remote work due to COVID-19.
 * Python
+    * [Coin Roll](https://github.com/AugmenTab/coinroll-python) is a Python backend for a theoretical cryptocurrency ticker app. It is made using [FastAPI](https://fastapi.tiangolo.com/) and [Uvicorn](https://www.uvicorn.org/), [Celery](https://docs.celeryproject.org/en/stable/index.html) and [RabbitMQ](https://www.rabbitmq.com/), and [Async.io](https://docs.python.org/3/library/asyncio.html), with all unit tests using [Pytest](https://docs.pytest.org/en/6.2.x/), and mounted using [Docker](https://www.docker.com/) with [Docker Compose](https://docs.docker.com/compose/). The database used is [MongoDB](https://www.mongodb.com/) with [MongoEngine](https://github.com/mongo-express/mongo-express). The app collects all of its cryptocurrency data from the [CoinMarketCap API](https://coinmarketcap.com/api/).
     * [Text Embiggeninator](https://github.com/AugmenTab/text-embiggeninator) is a Python tool that converts text into BIG TEXT emojis for use in the Discord instant messaging app. It makes use of [Eel](https://github.com/samuelhwilliams/Eel) to make a simple GUI using HTML, CSS, and JavaScript.
     * [Halo Medal Scraper](https://github.com/AugmenTab/halo-medal-scraper), a simple web scraper that downloads images and logs details for the multiplayer medals from the Halo first-person shooter franchise.
     * [True Random Dice Roller](https://github.com/AugmenTab/true-random-dice-roller), a dice roller that uses the [Random.org API](https://api.random.org/features) to get true random results.
